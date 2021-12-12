@@ -1,0 +1,16 @@
+
+/* font family abel  */
+@font-face {
+    font-family: Abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+}
+
+   @font-face {
+       font-family: Open_Sans;
+       src: url(../fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+   } 
+   
+   @font-face {
+       font-family: Scheherazade_New;
+       src: url(../fonts/Scheherazade_New/ScheherazadeNew-Regular.ttf);
+   }
